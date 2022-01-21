@@ -17,6 +17,7 @@ pipeline {
         DOCKERHUB_NAMESPACE = 'safenglv'
         GITHUB_ACCOUNT = 'lvhuibin'
         APP_NAME = 'devops-java-sample'
+        SONAR_CREDENTIAL_ID = '76f0983eb6e7b63a035e09ff8ebdb6f8c766929b'
     }
 
     stages {
